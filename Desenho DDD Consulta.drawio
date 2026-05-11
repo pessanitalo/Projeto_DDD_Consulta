@@ -177,6 +177,9 @@
         <mxCell id="lfg1AlP3X1CXtsJL9le1-62" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="Confirma recebimento da fila/broker&#xa;Se tudo OK -&gt; evento é removido da fila" vertex="1">
           <mxGeometry height="30" width="140" x="175.5" y="551" as="geometry" />
         </mxCell>
+        <mxCell id="pGlc-kxR13Q6qeo7e0oc-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="27.5" y="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
