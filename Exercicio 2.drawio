@@ -31,6 +31,9 @@
         <mxCell id="qtmcB5I651m3tvEfHeFC-2" parent="qtmcB5I651m3tvEfHeFC-3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="130" width="118" as="geometry" />
         </mxCell>
+        <mxCell id="qtmcB5I651m3tvEfHeFC-19" parent="qtmcB5I651m3tvEfHeFC-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Duplicatas de clientes" vertex="1">
+          <mxGeometry height="30" width="280" x="159" y="10" as="geometry" />
+        </mxCell>
         <mxCell id="qtmcB5I651m3tvEfHeFC-6" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="160" width="340" x="250" y="340" as="geometry" />
         </mxCell>
@@ -60,6 +63,12 @@
         </mxCell>
         <mxCell id="qtmcB5I651m3tvEfHeFC-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Calcular geral total final" vertex="1">
           <mxGeometry height="30" width="237" x="307" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="qtmcB5I651m3tvEfHeFC-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Emitir relatorio final" vertex="1">
+          <mxGeometry height="30" width="237" x="295" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="qtmcB5I651m3tvEfHeFC-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Banco de dados" vertex="1">
+          <mxGeometry height="30" width="280" x="60" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
