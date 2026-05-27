@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DBH7MVQ9vVONgHufCvDL-65" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="69.67" width="210" x="86" y="100.33" as="geometry" />
+        </mxCell>
         <mxCell id="DBH7MVQ9vVONgHufCvDL-51" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="100" x="150" y="532" as="geometry" />
         </mxCell>
@@ -12,15 +15,6 @@
         </mxCell>
         <mxCell id="DBH7MVQ9vVONgHufCvDL-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="120" x="140" y="750" as="geometry" />
-        </mxCell>
-        <mxCell id="DBH7MVQ9vVONgHufCvDL-10" connectable="0" parent="1" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
-          <mxGeometry height="68.95238095238096" width="170" x="115" y="100" as="geometry" />
-        </mxCell>
-        <mxCell id="jzCYSSf-we6ysbVIzLZt-2" parent="DBH7MVQ9vVONgHufCvDL-10" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;container=0;" value="" vertex="1">
-          <mxGeometry height="68.95238095238095" width="170" as="geometry" />
-        </mxCell>
-        <mxCell id="jzCYSSf-we6ysbVIzLZt-6" parent="DBH7MVQ9vVONgHufCvDL-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;container=0;" value="Movimentação estoque&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;COD_PROD&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;ENTRADA_SAIDA&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;QUANTIDADE&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="51.714285714285715" width="150" x="10" y="8.61904761904762" as="geometry" />
         </mxCell>
         <mxCell id="DBH7MVQ9vVONgHufCvDL-12" connectable="0" parent="1" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
           <mxGeometry height="25.85714285714286" width="120" x="140" y="230.00095238095238" as="geometry" />
@@ -184,6 +178,9 @@
             <mxPoint x="160" y="400" as="sourcePoint" />
             <mxPoint x="230" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jzCYSSf-we6ysbVIzLZt-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;container=0;" value="Movimentação estoque&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;COD_PROD&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;ENTRADA_SAIDA&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;QUANTIDADE&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="51.714285714285715" width="150" x="125" y="108.61904761904762" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
