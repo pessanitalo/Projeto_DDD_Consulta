@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="QJ5mjXmp26G4i7hV8Yce">
-    <mxGraphModel dx="682" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,10 +75,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DBH7MVQ9vVONgHufCvDL-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Não" vertex="1">
-          <mxGeometry height="30" width="40" x="120" y="360" as="geometry" />
+          <mxGeometry height="30" width="40" x="148" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="DBH7MVQ9vVONgHufCvDL-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="Sim" vertex="1">
-          <mxGeometry height="30" width="40" x="230" y="360" as="geometry" />
+        <mxCell id="DBH7MVQ9vVONgHufCvDL-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Sim" vertex="1">
+          <mxGeometry height="30" width="40" x="211" y="360" as="geometry" />
         </mxCell>
         <mxCell id="DBH7MVQ9vVONgHufCvDL-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DBH7MVQ9vVONgHufCvDL-9" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -160,6 +160,30 @@
         </mxCell>
         <mxCell id="jzCYSSf-we6ysbVIzLZt-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="Produto existe ?" vertex="1">
           <mxGeometry height="25.857142857142858" width="110" x="145" y="316.99571428571426" as="geometry" />
+        </mxCell>
+        <mxCell id="DBH7MVQ9vVONgHufCvDL-61" edge="1" parent="1" source="DBH7MVQ9vVONgHufCvDL-60" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="470" as="sourcePoint" />
+            <mxPoint x="200" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBH7MVQ9vVONgHufCvDL-62" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="160" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBH7MVQ9vVONgHufCvDL-63" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="229" y="400" as="sourcePoint" />
+            <mxPoint x="229" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBH7MVQ9vVONgHufCvDL-64" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="230" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
